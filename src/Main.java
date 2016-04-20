@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Hier ist die Konsole. Willkommen!");
 
         System.out.println("... hier wird alles ausgegeben, was mit System.out oder System.err gegeben wird.");
-
+//Dies ist ein Kommentar
         JOptionPane.showMessageDialog(new JFrame(), "Hi there, this is a dialog.");
 
         System.out.println("Und wir machen weiter mit der Konsole.");
